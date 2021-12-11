@@ -1,4 +1,3 @@
-import tp5.aze.MyInterface;
 import java.rmi.Naming;
 import java.util.Scanner;
 
