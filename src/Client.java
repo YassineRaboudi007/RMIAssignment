@@ -11,7 +11,7 @@ public class Client {
             System.out.print("Input : ");
             String str= sc.nextLine();
             System.out.println("Case Changer : "+service.CaseChanger(str));
-            System.out.println("Min Char :J "+service.minChar(str));
+            System.out.println("Min Char : "+service.minChar(str));
             System.out.println("Reverse : "+service.reverse(str));
         } catch (Exception e) {
             e.printStackTrace();
